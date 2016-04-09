@@ -1,16 +1,51 @@
 body {
-  background-color: #c6d9ec;
+  background-color: #f8f9f7;
 }
 
 h1 {
-  color: orange;
+  color: #001433;
+  padding-top: 30px;
+  padding-bottom: 30px;
   text-align: center;
+  ont-size: 30px;
+}
+
+h2 {
+  color: #001433;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 p {
   font-family: "Ariel";
-  font-size: 30px;
+  font-size: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
-.hidden {
+
+ul {
+  margin-left: 70px;
+  margin-right: 70px;
+  font-size: 17px;
+}
+
+.disappear {
 	display:none;
+}
+
+.hero-image {
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	float: right;
+}
+
+#read-more {
+	margin-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	font-family: "Ariel";
+
 }
