@@ -40,6 +40,20 @@ ul {
 	padding-bottom: 25px;
 	float: right;
 }
+	
+#cta {
+	display:none;
+		
+}
+
+#cta {
+	margin-left: 100px;
+	margin-bottom: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	font-family: "Ariel";
+}
 
 #read-more {
 	margin-left: 100px;
